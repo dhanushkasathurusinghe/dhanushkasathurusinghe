@@ -9,7 +9,7 @@ I've been working and studying as a developer for several years, and found it ex
 * *🚀  I'm currently working on [As an AI software intern](http://www.supplyz.eu) 
 * *🧠  I'm learning STM32 development board / Machine learning algorithms 
 * *🤝  I'm open to collaborating on IoT projects and anything that's interesting 
-* *⚡  oh yeah, did I mention that I'am also into digital media (photo,video) / VFX and Animations...
+  *⚡  oh yeah, did I mention that I'am also into digital media (photo,video) / VFX and Animations...
 
 ### Skills  
 
