@@ -12,7 +12,10 @@ I've been working and studying as a developer for several years, and found it ex
 *   🚀  I'm currently working on [As an AI software intern](http://www.supplyz.eu)
 *   🧠  I'm learning STM32 development board / Machine learning algorithms
 *   🤝  I'm open to collaborating on IoT projects and anything that's interesting
-*   ⚡  oh yeah, did I mention that I'am also into digital media (photo,video) / VFX and Animations...### Skills 
+*   ⚡  oh yeah, did I mention that I'am also into digital media (photo,video) / VFX and Animations...
+ 
+### Skills 
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
