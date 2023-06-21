@@ -9,7 +9,7 @@ I've been working and studying as a developer for several years, and found it ex
 *   🌍  I'm based in Finland
 *   🖥️  See my portfolio at [My portfolio](http://dhanushkasathurusinghe.github.io)
 *   ✉️  You can contact me at [dhanushka.kvin@gmail.com](mailto:dhanushka.kvin@gmail.com)
-*   🚀  I'm currently working as [an AI software intern](http://www.supplyz.eu)
+*   🚀  I'm currently working as [a full stack software developer](http://www.supplyz.eu)
 *   🧠  I'm learning STM32 development board / Machine learning algorithms
 *   🤝  I'm open to collaborating on IoT projects and anything that's interesting
 *   ⚡  oh yeah, did I mention that I'am also into digital media (photo,video) / VFX and Animations...
