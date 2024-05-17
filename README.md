@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dhanushka
 ===============================================================================================================================
 
-Developer / Designer / Embedded systems engineer
+Developer / Designer
 ------------------------------------------------
 
 I've been working and studying as a developer for several years, and found it extremely interesting and I'm passionate about it. I love seeing a real-world problem being solved with technology.
